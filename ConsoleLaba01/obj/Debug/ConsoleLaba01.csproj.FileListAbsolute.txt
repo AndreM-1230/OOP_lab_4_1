@@ -1,0 +1,7 @@
+C:\Users\Merkulov\source\repos\ConsoleLaba01\ConsoleLaba01\bin\Debug\ConsoleLaba01.exe.config
+C:\Users\Merkulov\source\repos\ConsoleLaba01\ConsoleLaba01\bin\Debug\ConsoleLaba01.exe
+C:\Users\Merkulov\source\repos\ConsoleLaba01\ConsoleLaba01\bin\Debug\ConsoleLaba01.pdb
+C:\Users\Merkulov\source\repos\ConsoleLaba01\ConsoleLaba01\obj\Debug\ConsoleLaba01.csprojAssemblyReference.cache
+C:\Users\Merkulov\source\repos\ConsoleLaba01\ConsoleLaba01\obj\Debug\ConsoleLaba01.csproj.CoreCompileInputs.cache
+C:\Users\Merkulov\source\repos\ConsoleLaba01\ConsoleLaba01\obj\Debug\ConsoleLaba01.exe
+C:\Users\Merkulov\source\repos\ConsoleLaba01\ConsoleLaba01\obj\Debug\ConsoleLaba01.pdb
